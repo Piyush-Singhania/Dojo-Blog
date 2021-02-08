@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top 5 CSS tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "piyush blog",
+      "body": "piyush wrote a blog",
+      "tags": [
+        "vue"
+      ],
+      "id": 3
+    },
+    {
+      "title": "piyush second blog",
+      "body": "testing",
+      "tags": [
+        "hey"
+      ],
+      "id": 4
+    },
+    {
+      "title": "New blog coming soon",
+      "body": "something related to live chat room",
+      "tags": [
+        "vue",
+        "project"
+      ],
+      "id": 5
+    },
+    {
+      "title": "Adding new blog",
+      "body": "webinar on digital marketing on 5:30",
+      "tags": [
+        "digitalmarketing",
+        "webinar",
+        "d2c",
+        "silicon"
+      ],
+      "id": 6
+    }
+  ]
+}
