@@ -3,10 +3,12 @@
 ## Url to visit and test
 ```
 https://dojoblogs.netlify.app/
+```
 
 ## Framework used to build
- ```
- Vue.js
+```
+Vue.js
+```
 
 ## Project setup
 ```
