@@ -2,7 +2,7 @@
 
 ## Url to visit and test
 ```
-https://dojoblogs.netlify.app/
+[a link](https://dojoblogs.netlify.app/)
 ```
 
 ## Framework used to build
