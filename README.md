@@ -1,5 +1,13 @@
 # dojo-blog
 
+## Url to visit and test
+```
+https://dojoblogs.netlify.app/
+
+## Framework used to build
+ ```
+ Vue.js
+
 ## Project setup
 ```
 npm install
