@@ -1,9 +1,7 @@
 # dojo-blog
 
 ## Url to visit and test
-```
-[a link](https://dojoblogs.netlify.app/)
-```
+https://dojoblogs.netlify.app/
 
 ## Framework used to build
 ```
